@@ -1,0 +1,101 @@
+baseurl = ""
+title = "Lisa Röttjers"
+
+theme = "hugo-coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Lisa Röttjers"
+    description = "Lisa's personal website"
+    keywords = "microbiome,networks,personal"
+    info = "Computational microbiologist"
+    avatarurl = "images/portrait.jpg"
+    footercontent = "Doctoral student at the Lab of Microbial Systems Biology."
+    fixedbarContent = ""
+    fixedbarContentAfter = ""
+
+    hideCredits = false
+    hideCopyright = false
+
+    snsShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/ramellose/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/rutjers/"
+[[params.social]]
+    name = "Email"
+    weight = 3
+    url = "lisa.rottjers(@)kuleuven.be"
+[[params.social]]
+    name = "Lab"
+    weight = 3
+    url = "http://psbweb05.psb.ugent.be/conet/karoline/"  
+[[params.social]]
+    name = "University"
+    weight = 3
+    url = "https://www.kuleuven.be/wieiswie/en/person/00118219"  
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Lisa Röttjers"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Lisa Röttjers"
+            info = "Computational microbiologist"
+            description = "Lisa's personal website"
+            keywords = "microbiome,networks,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+
+            [[languages.en.menu.main]]
+                name = "Publications"
+                weight = 3
+                url = "publications" 
+           
+           [[languages.en.menu.main]]
+                name = "Conferences & talks"
+                weight = 2.0
+                url = "talks"
+            
+            [[languages.en.menu.main]]
+                name = "Teaching"
+                weight = 3
+                url = "teaching"
+
+
