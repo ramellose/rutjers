@@ -27,7 +27,7 @@ disqusShortname = "yourdiscussshortname"
     hideCredits = false
     hideCopyright = false
 
-    snsShare = true
+    snsShare = false
 
     thumbnail = "images/tn.png"
 
@@ -53,7 +53,7 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "Email"
     weight = 3
-    url = "lisa.rottjers(@)kuleuven.be"
+    url = "lisa.rottjers(at)kuleuven.be"
 [[params.social]]
     name = "Lab"
     weight = 3
