@@ -12,7 +12,7 @@ title: Conferences & Talks
   </li>
   <li>13 March 2019, workshop on microbiome research @ Utrecht University <br /> <a href="https://ramellose.github.io/networktutorials/">Interactive tutorial on microbial association networks</a>
   </li>
-  <li>25 January 2019, Microbiota Data Analysis Workshop <br /> <a href="https://ramellose.github.io/networktutorials/">Lecture & tutorial on analysis of microbial networks</a>
+  <li>25 January 2019, Microbiota Data Analysis Workshop GDC ETH Zürich <br /> <a href="https://ramellose.github.io/networktutorials/">Lecture & tutorial on analysis of microbial networks</a>
   </li>
   <li>13 August 2018, ISME 2017 <br /> <a href="https://www.morressier.com/article/5b5199bfb1b87b000ecee5ad">Poster presentation</a>
   </li>
