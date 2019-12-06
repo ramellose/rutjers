@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa Röttjers</title>
@@ -11,14 +11,23 @@
     
     
     <item>
+      <title></title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>Conferences &amp;amp; Talkscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
       <description>Interests I mainly work on inference and analysis of microbial networks. My focus lies on emergent properties, such as hub species, modules and motifs. In addition to accurate detection of such properties, I want to better study microbial dynamics to learn how these properties arise.
-Outside the lab, I enjoy gardening. My proudest gardening accomplishment is my seed-grown Musa velutina, or pink banana.
-Education  PhD in Microbial Networks 2017 KU Leuven  MSc in Biology - Molecular Development and Gene Regulation - Cum Laude 2015-2017 Wageningen UR BSc in Molecular Biology - Cum Laude 2012-2015 Wageningen UR   Biography In 2017, I became a doctoral student at the lab of Karoline Faust.</description>
+Outside the lab, I enjoy gardening. I frequently propagate vast amounts of dahlias and spider plants.
+ Education  Biography In 2017, I became a doctoral student at the lab of Karoline Faust.</description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@ Education  PhD in Microbial Networks 2017 KU Leuven  MSc in Biology - Molecular 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/talks/</guid>
-      <description> 3 May 2019, RSG Belgium Student Symposium  A clustering algorithm for weighted ecological networks   24 April 2019, IAFP European Symposium Introduction to microbial networks  13 March 2019, workshop on microbiome research @ Utrecht University Interactive tutorial on microbial association networks  25 January 2019, Microbiota Data Analysis Workshop GDC ETH Zürich Lecture &amp; tutorial on analysis of microbial networks  13 August 2018, ISME 2017 Poster presentation  3 May 2018, Solvay Workshop Poster presentation  14 February 2018, Netherlands Annual Ecology Meeting Talk on data from upcoming work: From hairballs to hypotheses   </description>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +45,7 @@ Education  PhD in Microbial Networks 2017 KU Leuven  MSc in Biology - Molecular 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description> Can we predict keystones? Lisa Röttjers, Karoline Faust From hairballs to hypotheses - biological insights from microbial networks Lisa Röttjers, Karoline Faust  </description>
+      <description></description>
     </item>
     
     <item>
@@ -45,7 +54,7 @@ Education  PhD in Microbial Networks 2017 KU Leuven  MSc in Biology - Molecular 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description> Can we predict keystones? Lisa Röttjers, Karoline Faust From hairballs to hypotheses - biological insights from microbial networks Lisa Röttjers, Karoline Faust  </description>
+      <description></description>
     </item>
     
     <item>
@@ -54,7 +63,7 @@ Education  PhD in Microbial Networks 2017 KU Leuven  MSc in Biology - Molecular 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>You can find my teaching materials here. All material is available under the Apache-2.0 license; you are free to reuse and modify any content available. For my participation in workshops, please check the &amp;lsquo;Conferences &amp;amp; Talks&amp;rsquo;section.</description>
+      <description>You can find my teaching materials here. All material is available under the Apache-2.0 license; you are free to reuse and modify any content available. For my participation in workshops, please check the &amp;lsquo;Conferences &amp;amp; Talks&#39;section.</description>
     </item>
     
   </channel>

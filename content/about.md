@@ -7,7 +7,7 @@ title: About me
 ## Interests
 I mainly work on inference and analysis of microbial networks. My focus lies on emergent properties, such as hub species, modules and motifs. In addition to accurate detection of such properties, I want to better study microbial dynamics to learn how these properties arise. 
 
-Outside the lab, I enjoy gardening. My proudest gardening accomplishment is my seed-grown <i>Musa velutina</i>, or pink banana. 
+Outside the lab, I enjoy gardening. I frequently propagate vast amounts of dahlias and spider plants.  
 
 ---------------------------
 ## Education
