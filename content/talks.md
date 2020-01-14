@@ -6,7 +6,11 @@ title: Conferences & Talks
 ---
  
 <ul>
+    <li> 22 April 2020, Statistical methods for the analysis of microbial sequencing data @ Hasselt University <br /> <b><a href="https://ramellose.github.io/networktutorials/">Tutorial on analysis of microbial networks</a></b>  
+  </li>
   <li> 23 March 2020, Integrated multi-omic analyses of microbial communities EMBO Practical Course <br /> <b><a href="https://ramellose.github.io/networktutorials/">Lecture & tutorial on analysis of microbial networks</a></b>  
+  </li>
+    <li> 12 February 2020, Netherlands Annual Ecology Meeting <br /> <b>Learning from microbial association networks through clusters and conserved patterns</b>  
   </li>
   <li>18 October 2019, Symposium of the Belgian Society for Microbiology <br /> <b>Poster presentation</b>
   </li>
