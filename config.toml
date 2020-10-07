@@ -53,7 +53,7 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "Email"
     weight = 3
-    url = "lisa.rottjers(at)kuleuven.be"
+    url = "mailto:lisa.rottjers(at)kuleuven.be"
 [[params.social]]
     name = "Lab"
     weight = 3
