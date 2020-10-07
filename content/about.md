@@ -21,5 +21,5 @@ During my time at Wageningen UR, I studied machine learning, sensor technology a
 
 ## Website
 
-The Hugo theme for this website was adapted from the [https://github.com/naro143/hugo-coder-portfolio](hugo-coder-portfolio) theme developed by Yusuke Ishimi, which was in turn adapted from the [https://github.com/luizdepra/hugo-coder](hugo-coder) theme by Luiz de Prá. Special thanks to the original developers and all others who contributed to this project!
+The Hugo theme for this website was adapted from the [hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio) theme developed by Yusuke Ishimi, which was in turn adapted from the [hugo-coder](https://github.com/luizdepra/hugo-coder) theme by Luiz de Prá. Special thanks to the original developers and all others who contributed to this project!
 
