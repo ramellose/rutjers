@@ -1,6 +1,6 @@
 # Blog built using Hugo with the Academic theme
 
-Personal blog by Lisa Rottjers. Learn more @ rutjers.netlify.com
+Personal blog by Sam Rottjers. Learn more @ rutjers.netlify.com
 
 ## Theme License
 
