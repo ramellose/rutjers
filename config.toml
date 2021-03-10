@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Lisa Röttjers"
+title = "Sam Röttjers"
 
 theme = "hugo-coder-portfolio"
 
@@ -15,8 +15,8 @@ pygmentsUseClasses = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Lisa Röttjers"
-    description = "Lisa's personal website"
+    author = "Sam Röttjers"
+    description = "Sam's personal website"
     keywords = "microbiome,networks,personal"
     info = "Computational microbiologist"
     avatarurl = "images/portrait.jpg"
@@ -67,13 +67,13 @@ disqusShortname = "yourdiscussshortname"
     [languages.en]
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
-        title = "Lisa Röttjers"
+        title = "Sam Röttjers"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-            author = "Lisa Röttjers"
+            author = "Sam Röttjers"
             info = "Computational microbiologist"
-            description = "Lisa's personal website"
+            description = "Sam's personal website"
             keywords = "microbiome,networks,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
