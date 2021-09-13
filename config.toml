@@ -73,7 +73,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.params]
             author = "Sam Röttjers"
             info = "Computational microbiologist"
-            description = "Lisa's personal website"
+            description = "Sam's personal website"
             keywords = "microbiome,networks,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
