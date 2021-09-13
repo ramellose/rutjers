@@ -57,7 +57,7 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "Lab"
     weight = 3
-    url = "http://psbweb05.psb.ugent.be/conet/karoline/index.php"  
+    url = "http://msysbiology.com/"  
 [[params.social]]
     name = "University"
     weight = 3
