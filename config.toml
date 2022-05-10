@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     keywords = "microbiome,networks,personal"
     info = "Computational microbiologist"
     avatarurl = "images/portrait.jpg"
-    footercontent = "Doctoral student at the Lab of Microbial Systems Biology."
+    footercontent = "Senior bionetwork analyst at Biome Makers."
     fixedbarContent = ""
     fixedbarContentAfter = ""
 
@@ -54,14 +54,6 @@ disqusShortname = "yourdiscussshortname"
     name = "Email"
     weight = 3
     url = "mailto:lisa.rottjers(at)kuleuven.be"
-[[params.social]]
-    name = "Lab"
-    weight = 3
-    url = "http://msysbiology.com/"  
-[[params.social]]
-    name = "University"
-    weight = 3
-    url = "https://www.kuleuven.be/wieiswie/en/person/00118219"  
 
 [languages]
     [languages.en]
