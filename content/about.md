@@ -7,11 +7,13 @@ title: About me
 ## Interests
 I mainly work on inference and analysis of microbial networks. My focus lies on emergent properties, such as hub species, modules and motifs. In addition to accurate detection of such properties, I want to better study microbial dynamics to learn how these properties arise. 
 
-Outside the lab, I enjoy gardening. I frequently propagate vast amounts of dahlias and spider plants.  
+Outside my office, I enjoy gardening and am learning how to sail. 
 
 ---------------------------
 
 ## Biography
+
+In 2021, I successfully defended my doctorate and started working at Biome Makers as a senior bionetwork analyst. Here, I focus on directly applying scientific insights to large-scale data. 
 
 In 2017, I became a doctoral student at the lab of Karoline Faust. My research focuses on the development of new analytical tools for microbial networks, and topics of interest include compositional data analysis, network theory and 'omics tools.
 
